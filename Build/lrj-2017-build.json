@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "lrj-2017-build.data.unityweb",
+"asmCodeUrl": "lrj-2017-build.asm.code.unityweb",
+"asmMemoryUrl": "lrj-2017-build.asm.memory.unityweb",
+"asmFrameworkUrl": "lrj-2017-build.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

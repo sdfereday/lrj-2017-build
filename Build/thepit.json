@@ -1,9 +1,0 @@
-{
-"TOTAL_MEMORY": 268435456,
-"dataUrl": "thepit.data.unityweb",
-"asmCodeUrl": "thepit.asm.code.unityweb",
-"asmMemoryUrl": "thepit.asm.memory.unityweb",
-"asmFrameworkUrl": "thepit.asm.framework.unityweb",
-"splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
-}
